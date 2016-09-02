@@ -25,4 +25,7 @@ What you have to do is to run the app and the draw of the vectors will appear ev
 - z
  
 ##Graph of the learning curve
-<img src="https://github.com/raphym/Machine-Learning-Course/blob/master/Simple-Perceptron/printScreen.jpg" width="200" height="200">
+<img src="https://github.com/raphym/Machine-Learning-Course/blob/master/Simple-Perceptron/printScreen.jpg" width="350" height="350">
+
+
+We can see the separate line between the two class of the NAND Action
